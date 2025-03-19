@@ -10,3 +10,13 @@ var2 = ("Python", "Swift", "Java")
 print(var2[0])
 print(var2[1])
 print(var2[2])
+
+#list all the tuples operations
+#Accessing elements in a tuple
+print(var2[0])
+
+#changing elements in a tuple
+var2 = ("Python", "Swift", "Java")
+
+#slicing elements in a tuple
+print(var2[0:2])

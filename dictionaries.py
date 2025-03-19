@@ -1,5 +1,6 @@
 #Python dictionary is an unordered collection of items. While other compound data types have only value as an element, a dictionary has a key-value pair. Dictionaries are optimized to retrieve values when the key is known.
-
+# empty dictionary
+my_dict = {}
 #create a dictionary
 capital_cities = {
     "India": "New Delhi",

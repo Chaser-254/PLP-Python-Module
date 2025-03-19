@@ -1,6 +1,6 @@
 #sets in python are unordered collection of unique elements
 #Creating a set
-
+#what makes a set unique is that it does not allow duplicate elements
 prime_numbers = {2, 3, 5, 7, 11}
 print(prime_numbers)
 
